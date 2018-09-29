@@ -141,10 +141,8 @@ The gains you choose here will be used to generate the random equalisation.
 
 If you want to train only boosts, unselect all the negative values and if you want to train only cuts, unselect all the positive values.
 
-> **blue** `Low Cut`, `High Cut` and `Band Pass` filters do not have a gain value, so this won't have effect if the random equalisation ends up selecting one of those filters.
-
 {% hint style="info" %}
-**Low Cut**, **High Cut** and **Band Pass** filters do not have a gain value, so this won't have effect if the random equalisation ends up selecting one of those filters.
+`Low Cut`, `High Cut` and `Band Pass` filters do not have a gain value, so this won't have effect if the random equalisation ends up selecting one of those filters.
 {% endhint %}
 
 ### 5. Q factors

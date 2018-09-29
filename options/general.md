@@ -14,9 +14,9 @@ Here you can choose between your audio interfaces, drivers and other stuff like 
 
 The first thing you need to choose is the audio driver.
 
-In OSX, `Core Audio is recommended.`
+In OSX, `Core Audio` is recommended.
 
-In Windows, it depends on the audio interface you are using. If it is a built-in sound card which doesn't support ASIO, you can use either `Direct Sound or MME. If you are using an ASIO-compatible sound card then choose ASIO because the latency will be way much smaller.`
+In Windows, it depends on the audio interface you are using. If it is a built-in sound card which doesn't support ASIO, you can use either `Direct Sound`or `MME`. If you are using an ASIO-compatible sound card then choose ASIO because the latency will be way much smaller.
 
 When you have selected the audio driver you want to use, various input \(Input Channels, Input Device, and Input Source\) and output \(Output Channels, Output Device\) settings will become available based on the audio driver you choose.
 
@@ -62,7 +62,7 @@ You can turn off the generation of audio waveforms. This can be useful in old co
 
 ## Keyboard Shortcuts
 
-You can assign different shortcuts for the common buttons of the Training process. To assign a new shortcut, just press on `Choose another and then on the key you want to use.`
+You can assign different shortcuts for the common buttons of the Training process. To assign a new shortcut, just press on `Choose another` and then on the key you want to use.
 
 ![](../.gitbook/assets/shortcuts-2.png)
 
@@ -74,7 +74,7 @@ You can control the Audio Player play/pause using the spacebar.
 
 ## Total Score Calculation
 
-You can change the number of quizzes used to calculate the `Total score value of each exercise. It is useful so you don't have to reset the score and quizzes of your exercises, you can keep doing them and the Total Score will reflect your improvements in a more accurate way.`
+You can change the number of quizzes used to calculate the `Total score` value of each exercise. It is useful so you don't have to reset the score and quizzes of your exercises, you can keep doing them and the `Total Score` will reflect your improvements in a more accurate way.
 
 Reduce it if you want to give more importance to your last results. Increase it if you want to know how well you are doing from a longer time.
 
@@ -98,8 +98,8 @@ To enjoy this exclusive discount simply enter the coupon code **TYE10-X2C** at c
 
 To load a VST/AU plugin, click on `Load Plugin and go to the plugins folder:`
 
-* In **OSX** the AU plugins folder is on `/Library/Audio/Plugins/Components and the VST plugins folder is on /Library/Audio/Plugins/VST. You can use either 32 or 64bit plugins.`
-* In **Windows** the VST plugins folder is usually on `C:\Program Files\Steinberg\VstPlugins. Right now TrainYourEars only supports 32bit plugins.`
+* In **OSX** the AU plugins folder is on `/Library/Audio/Plugins/Components` and the VST plugins folder is on `/Library/Audio/Plugins/VST`. You can use either 32 or 64bit plugins.
+* In **Windows** the VST plugins folder is usually on `C:\Program Files\Steinberg\VstPlugins`. Right now TrainYourEars only supports 32bit plugins.
 
 ![](../.gitbook/assets/plugin-folders.png)
 
