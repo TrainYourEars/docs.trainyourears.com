@@ -12,7 +12,7 @@ If you want to share your journey with him and let him help you with proven tech
 
 [**Click here to download the Midrange Basics package.**](https://cdn.trainyourears.com/exercises/stephen-kelly/Midrange%20Basics%20Package%20by%20Stephen%20Kelly.zip)
 
-Then unzip it and use the [import](https://github.com/trainyourears/trainyourears-eq-edition-2/tree/a7413c34313a0d3092a4bc29b2665898cd77eb4b/options/designer.html#exercise-list-buttons) button to load the exercises in TrainYourEars.
+Then unzip it and use the [import](https://docs.trainyourears.com/options/designer#import) button to load the exercises in TrainYourEars.
 
 The .zip file contains two folders: one with "Guess" mode exercises, and the other one with "Correct" mode exercises.
 

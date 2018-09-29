@@ -8,7 +8,7 @@ Andrei is a 23-year-old **certified Bitwig Studio Professional** who began produ
 
 The .zip file contains two folders: one with exercises, and the other one with sound files.
 
-Unzip it and use the [import](https://github.com/trainyourears/trainyourears-eq-edition-2/tree/a7413c34313a0d3092a4bc29b2665898cd77eb4b/options/designer.html#exercise-list-buttons) button to load the exercises in TrainYourEars. Don't forget to add all the sound files to the audio player too.
+Unzip it and use the [import](https://docs.trainyourears.com/options/designer#import) button to load the exercises in TrainYourEars. Don't forget to add all the sound files to the audio player too.
 
 ## Andrei Georgescu’s introduction
 

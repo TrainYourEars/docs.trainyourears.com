@@ -8,7 +8,7 @@ You can find more information about Karél's work on [his website](http://karelp
 
 [**Click here to download the Faking Absolute Pitch package.**](https://cdn.trainyourears.com/exercises/karel-psota/Faking%20Absolute%20Pitch%20Package%20by%20Karel%20Psota.zip)
 
-Then unzip it and use the [import](https://github.com/trainyourears/trainyourears-eq-edition-2/tree/a7413c34313a0d3092a4bc29b2665898cd77eb4b/options/designer.html#exercise-list-buttons) button to load the exercises in TrainYourEars.
+Then unzip it and use the [import](https://docs.trainyourears.com/options/designer#import) button to load the exercises in TrainYourEars.
 
 ## Karél Psota’s introduction:
 

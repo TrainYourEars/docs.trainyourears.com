@@ -6,7 +6,7 @@ This package has been created by the **mastering engineer** Andrea Zanini, found
 
 [**Click here to download the medium-advanced package.**](https://cdn.trainyourears.com/exercises/zanini/Medium-Advanced%20package%20by%20Andrea%20Zanini.zip)
 
-Then unzip it and use the [import](https://github.com/trainyourears/trainyourears-eq-edition-2/tree/a7413c34313a0d3092a4bc29b2665898cd77eb4b/options/designer.html#exercise-list-buttons) button to load the exercises in TrainYourEars.
+Then unzip it and use the [import](https://docs.trainyourears.com/options/designer#import) button to load the exercises in TrainYourEars.
 
 ## Andrea's introduction:
 

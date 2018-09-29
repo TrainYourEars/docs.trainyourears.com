@@ -10,7 +10,7 @@ Jørn-Arild is an educated music producer from the norwegian audio engineering s
 
 [**Click here to download the Pop Rock Instruments package.**](https://cdn.trainyourears.com/exercises/jorn-arild-grefsrud/Pop%20Rock%20Instruments%20package%20by%20Jorn-Arild%20Grefsrud.zip)
 
-Then unzip it and use the [import](https://github.com/trainyourears/trainyourears-eq-edition-2/tree/a7413c34313a0d3092a4bc29b2665898cd77eb4b/options/designer.html#exercise-list-buttons) button to load the exercises in TrainYourEars.
+Then unzip it and use the [import](https://docs.trainyourears.com/options/designer#import) button to load the exercises in TrainYourEars.
 
 There are two exercises folders. One contains "Guess" mode exercises and the other one "Correct" mode exercises.
 
