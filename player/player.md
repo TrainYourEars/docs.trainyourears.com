@@ -14,7 +14,7 @@ Each screen let's you select different audio signals.
 
 Play your own files. You can use songs or even tracks. It depends on what you are trying to learn.
 
-{% hint style="success" %}
+{% hint style="info" %}
 For example, if you want to learn how different `Low Cut`filters affect a guitar you've just recorded, just load that track and setup an exercise with different `Low Cuts.`
 {% endhint %}
 

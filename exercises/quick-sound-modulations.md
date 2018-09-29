@@ -72,7 +72,7 @@ Everything.
 
 ## Questions and Feedback
 
-If you have any questions or feedback about this package you can contact us on [info@trainyourears.com](mailto:info@trainyourears.com). We'll be happy to help!
+If you have any questions or feedback about this package you can [contact us](https://www.trainyourears.com/contact/). We'll be happy to help!
 
 Have you created some interesting exercises and want to share them with the world? That's awesome! Just send us an email \(to the email address above\) and we'll publish them here :\)
 

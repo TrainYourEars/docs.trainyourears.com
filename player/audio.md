@@ -78,7 +78,7 @@ You can also control Play/Pause using the spacebar.
 
 If you click and drag on the waveform you will create a loop, marked in red \(as seen in the waveform image\). If you select the button labeled as `Loop`, the audio will be looped over that section.
 
-{% hint style="success" %}
+{% hint style="info" %}
 If you have activated the Random Player option, the loop will be lost once you start a new quiz and TrainYourEars jumps to another song and time.
 {% endhint %}
 

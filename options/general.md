@@ -50,9 +50,9 @@ Choose the language of TrainYourEars
 
 ![](../.gitbook/assets/language.png)
 
-English, Spanish, German, French, Russian, Italian and Dutch are available, but we will keep adding more.
+**English, Spanish, German, French, Russian, Italian, Turkish, Polish and Dutch** are available, but we will keep adding more.
 
-If you want to help us with the translation of any other language not currently available in TrainYourEars, or the translation of these docs to your language, send us an email to info@trainyourears.com.
+If you want to help us with the translation of any other language not currently available in TrainYourEars, or the translation of these docs to your language, [send us an email](https://www.trainyourears.com/contact/).
 
 ## Audio Waveforms
 

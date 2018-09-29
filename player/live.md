@@ -45,7 +45,7 @@ Now, open **TrainYourEars** and route the signal.
 Once you have finished your training, remember to select your normal output again.
 
 {% hint style="info" %}
-If you hear noises try switching to **ad\_portaudio Core Audio** driver instead. In certain computers it works better than **Core Audio**.
+If you hear noises try switching to `ad_portaudio Core Audio` driver instead. In certain computers it works better than `Core Audio`.
 {% endhint %}
 
 ### Windows Internal Routing with VB CABLE
@@ -54,7 +54,7 @@ First, install VB-CABLE.
 
 1. [Download VB-Cable](http://www.vb-audio.com/Cable/index.htm) to your computer. Scroll down until you see the orange DOWNLOAD button:
 
-![](../.gitbook/assets/download-vbcable.png)
+![](../.gitbook/assets/vb-cable.png)
 
 1. Unzip the `zip` file.
 2. Right click on `VBCABLE_Setup_x64.exe` and choose `Run as Administrator`.

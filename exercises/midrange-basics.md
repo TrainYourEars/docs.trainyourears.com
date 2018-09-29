@@ -12,7 +12,7 @@ If you want to share your journey with him and let him help you with proven tech
 
 [**Click here to download the Midrange Basics package.**](https://cdn.trainyourears.com/exercises/stephen-kelly/Midrange%20Basics%20Package%20by%20Stephen%20Kelly.zip)
 
-Then unzip it and use the [import](https://docs.trainyourears.com/options/designer#import) button to load the exercises in TrainYourEars.
+Then unzip it and use the [import](../options/designer.md#import) button to load the exercises in TrainYourEars.
 
 The .zip file contains two folders: one with "Guess" mode exercises, and the other one with "Correct" mode exercises.
 
@@ -140,7 +140,7 @@ Practise differentiating between various frequencies across the entire mid-range
 
 ## Questions and Feedback
 
-If you have any questions or feedback about this package you can contact us on [info@trainyourears.com](mailto:info@trainyourears.com). We'll be more than happy to help you out.
+If you have any questions or feedback about this package you can [contact us](https://www.trainyourears.com/contact/). We'll be more than happy to help you out.
 
 And if you have developed some interesting exercises and want to share them with the world, that's awesome! Just send us an email and we'll publish them here :\)
 

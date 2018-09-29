@@ -8,7 +8,7 @@ Andrei is a 23-year-old **certified Bitwig Studio Professional** who began produ
 
 The .zip file contains two folders: one with exercises, and the other one with sound files.
 
-Unzip it and use the [import](https://docs.trainyourears.com/options/designer#import) button to load the exercises in TrainYourEars. Don't forget to add all the sound files to the audio player too.
+Unzip it and use the [import](../options/designer.md#import) button to load the exercises in TrainYourEars. Don't forget to add all the sound files to the audio player too.
 
 ## Andrei Georgescu’s introduction
 
@@ -82,7 +82,7 @@ This sound involves modulating the filter types, frequency, waveshapes of both V
 
 ## Questions and Feedback
 
-If you have any questions or feedback about this package you can contact us on [info@trainyourears.com](mailto:info@trainyourears.com). We'll be happy to help!
+If you have any questions or feedback about this package you can [contact us](https://www.trainyourears.com/contact/). We'll be happy to help!
 
 Have you created some interesting exercises and want to share them with the world? That's awesome! Just send us an email \(to the email address above\) and we'll publish them here :\)
 

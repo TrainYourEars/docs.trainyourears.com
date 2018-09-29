@@ -6,7 +6,7 @@ This package has been created by the **mastering engineer** Andrea Zanini, found
 
 [**Click here to download the medium-advanced package.**](https://cdn.trainyourears.com/exercises/zanini/Medium-Advanced%20package%20by%20Andrea%20Zanini.zip)
 
-Then unzip it and use the [import](https://docs.trainyourears.com/options/designer#import) button to load the exercises in TrainYourEars.
+Then unzip it and use the [import](../options/designer.md#import) button to load the exercises in TrainYourEars.
 
 ## Andrea's introduction:
 
@@ -76,7 +76,7 @@ You will have to find the EQ settings that gives you the sound original signal a
 
 ## Questions and Feedback
 
-If you have questions or feedback about this package you can send us an email to [info@trainyourears.com](mailto:info@trainyourears.com) and we will help you out.
+If you have questions or feedback about this package you can [send us an email](https://www.trainyourears.com/contact/) and we will help you out.
 
 And if you have developed some interesting exercises and you want to share them with the world, that's awesome! Send us an email and we will publish them here :\)
 

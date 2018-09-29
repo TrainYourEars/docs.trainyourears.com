@@ -34,5 +34,5 @@ That's awesome! Email us at [info@trainyourears.com](mailto:info@trainyourears.c
 
 ## Questions and Feedback
 
-If you have any questions, comments or suggestions about these packages, you can send us an email to [info@trainyourears.com](mailto:info@trainyourears.com), we'll be happy to help!
+If you have any questions, comments or suggestions about these packages, you can [send us an email](https://www.trainyourears.com/contact/), we'll be happy to help!
 
