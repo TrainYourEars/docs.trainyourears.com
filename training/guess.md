@@ -13,7 +13,9 @@ Each quiz has these 4 steps:
 3. You **guess** which parameters were used, and you enter them in the software.
 4. You finally see if you were right or wrong.
 
-> **blue** This method has been used for over 40 years by many teachers. In the past, there were exercises saved on CD's or even tapes, where you had to write down the answers. Now, with TrainYourEars, you don't have limitations anymore.
+{% hint style="info" %}
+This method has been used for over 40 years by many teachers. In the past, there were exercises saved on CD's or even tapes, where you had to write down the answers. Now, with TrainYourEars, you don't have limitations anymore.
+{% endhint %}
 
 ## 1. Listen to the original signal
 
@@ -29,7 +31,9 @@ If your current exercise has the `Muted` option activated, you won't hear anythi
 
 Don't worry, just press the `START QUIZ` button and you will be able to hear the `Original` signal for the number of seconds you have selected in the :doc:`exercise-editor` option.
 
-> **blue** If you have selected `Silence`, `Distraction voice` or `Distraction noise` between the Original and the Equalised signals, you will hear it before the next step.
+{% hint style="info" %}
+If you have selected `Silence`, `Distraction voice` or `Distraction noise` between the **Original** and the **Equalised** signals, you will hear it before the next step.
+{% endhint %}
 
 ## 2. Listen to the equalised signal
 
@@ -43,7 +47,9 @@ For example, if you selected two gains, `+12dB` and `-12dB` there is a 50% of ch
 
 In `Guess` mode you can go back and forth between the `Original` and the `Equalised` signal so feel free to click on the `Listen Original` button if you are not sure about the answer.
 
-> **blue** If you have selected `Silence`, `Distraction voice` or `Distraction noise` between the Equalised and the Original signals, you will hear it when you click on `Listen Original` again.
+{% hint style="info" %}
+If you have selected `Silence`, `Distraction voice` or `Distraction noise` between the **Equalised** and the **Original** signals, you will hear it when you click on **Listen Original** again.
+{% endhint %}
 
 As you can see some `Answer Bands` have appeared in the screen. You will have to used them to select your answers.
 

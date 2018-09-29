@@ -2,7 +2,9 @@
 
 Sometimes things can go wrong and you may want to reset the preferences to see if it helps. Or maybe you want to start again from scratch.
 
-> **blue** Whichever it is, remember to export any exercise you want to preserve before reseting the preferences.
+{% hint style="info" %}
+Whichever it is, remember to export any exercise you want to preserve before reseting the preferences.
+{% endhint %}
 
 ## PC \(Windows\)
 

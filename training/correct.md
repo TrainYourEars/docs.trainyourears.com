@@ -11,7 +11,9 @@ Each quiz has these 4 steps:
 3. You use the EQ to **correct** the signal and make it sound like the original again.
 4. You finally see if you were right or wrong.
 
-> **blue** The person who suggested this method to us in the first place was [Bob Katz](https://en.wikipedia.org/wiki/Bob_Katz), a renowned mastering guru. We tested it, we loved it, so here it is for all you to enjoy!
+{% hint style="info" %}
+The person who suggested this method to us in the first place was [Bob Katz](https://en.wikipedia.org/wiki/Bob_Katz), a renowned mastering guru. We tested it, we loved it, so here it is for all you to enjoy!
+{% endhint %}
 
 ## 1. Listen to the original signal
 
@@ -27,7 +29,9 @@ If your current exercise has the `Muted` option activated, you won't hear anythi
 
 Don't worry, just press the `START QUIZ` button and you will be able to hear the `Original` signal for the number of seconds you have selected in the :doc:`exercise-editor` option.
 
-> **blue** If you have selected `Silence`, `Distraction voice` or `Distraction noise` between the Original and the Equalised signals, you will hear it before the next step.
+{% hint style="info" %}
+If you have selected `Silence`, `Distraction voice` or `Distraction noise` between the **Original** and the **Equalised** signals, you will hear it before the next step.
+{% endhint %}
 
 ## 2. Listen to the equalised signal
 

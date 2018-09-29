@@ -16,7 +16,9 @@ Once you have added some files, you will see the Audio Player:
 
 ![](../.gitbook/assets/audio-player.png)
 
-> **green** You can still drag and drop files or folders in this screen and they will be added to the playlist.
+{% hint style="info" %}
+You can still drag and drop files or folders in this screen and they will be added to the playlist.
+{% endhint %}
 
 The Audio Player has different sections. Let's see what they do:
 
@@ -68,13 +70,17 @@ You can go the previous song, the next song, stop, pause and play.
 
 There are two additional buttons. The first one let's you loop over a defined section \(Audio Loop\) and the second one over the whole song \(Song Loop\).
 
-> **blue** You can also control Play/Pause using the spacebar.
+{% hint style="info" %}
+You can also control Play/Pause using the spacebar.
+{% endhint %}
 
 ### Audio Loop
 
 If you click and drag on the waveform you will create a loop, marked in red \(as seen in the waveform image\). If you select the button labeled as `Loop`, the audio will be looped over that section.
 
-> **green** If you have activated the Random Player option, the loop will be lost once you start a new quiz and TrainYourEars jumps to another song and time.
+{% hint style="success" %}
+If you have activated the Random Player option, the loop will be lost once you start a new quiz and TrainYourEars jumps to another song and time.
+{% endhint %}
 
 ### Song Loop
 

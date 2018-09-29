@@ -14,7 +14,9 @@ Each screen let's you select different audio signals.
 
 Play your own files. You can use songs or even tracks. It depends on what you are trying to learn.
 
-> **green** For example, if you want to learn how different `Low Cut` filters affect a guitar you've just recorded, just load that track and setup an exercise with different `Low Cuts`.
+{% hint style="success" %}
+For example, if you want to learn how different `Low Cut`filters affect a guitar you've just recorded, just load that track and setup an exercise with different `Low Cuts.`
+{% endhint %}
 
 Check the [Audio Player](audio.md) section for more info.
 
@@ -40,5 +42,7 @@ You can control the volume of the audio input in any of those screens, using the
 
 There are controls for `Mute` and `Mono` as well, and an output vumeter to evaluate the volume of the incoming signal.
 
-> **blue** You have to be careful when setting up your volume. Remember that TrainYourEars applies a random equalization to the signal. If it applies a boost, it will rise the volume several dBs and it could clip the output.
+{% hint style="info" %}
+You have to be careful when setting up your volume. Remember that TrainYourEars applies a random equalization to the signal. If it applies a boost, it will rise the volume several dBs and it could clip the output.
+{% endhint %}
 

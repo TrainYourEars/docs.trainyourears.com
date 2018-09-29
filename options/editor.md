@@ -10,7 +10,9 @@ Changes in this screen will be saved automatically.
 
 Change the name of the exercise.
 
-> **blue** If you are editing a new exercise, please give it a proper name first.
+{% hint style="info" %}
+If you are editing a new exercise, please give it a proper name first.
+{% endhint %}
 
 ## Description
 
@@ -35,7 +37,9 @@ It has these 4 steps:
 3. **You guess which parameters were used, and you enter them in the software.**
 4. You finally see if you were right or wrong.
 
-> **blue** This method has been used for over 40 years by many teachers. In the past, there were exercises saved on CD's or even tapes, where you had to write down the answers. Now with TrainYourEars you don't have those limits anymore.
+{% hint style="info" %}
+This method has been used for over 40 years by many teachers. In the past, there were exercises saved on CD's or even tapes, where you had to write down the answers. Now with TrainYourEars you don't have those limits anymore.
+{% endhint %}
 
 ### Correct
 
@@ -52,7 +56,9 @@ It has these 4 steps:
 
 Making the signal sound like the original again means you have to find the opposite EQ, so the result is flat again.
 
-> **blue** The person who suggested this method to us in the first place was [Bob Katz](https://en.wikipedia.org/wiki/Bob_Katz), a renowned mastering guru. We tested it, we loved it, so here it is for all you to enjoy!
+{% hint style="success" %}
+The person who suggested this method to us in the first place was Bob Katz, a renowned mastering guru. We tested it, we loved it, so here it is for all you to enjoy!
+{% endhint %}
 
 ## Audio Options
 
@@ -93,7 +99,9 @@ There are two options:
 * **Don't deactivate**: Hear the equalised signal as much as you want.
 * **Auto-deactivate after** `X` **seconds**: Hear the equalised signal only for the time selected.
 
-> **blue** This option is only used in `Guess` mode. In `Correct` mode, you will hear the `Equalised` signal always while equalising to get the sound of the `Original` signal again.
+{% hint style="info" %}
+This option is only used in **Guess** mode. In **Correct** mode, you will hear the **Equalised** signal always while equalising to get the sound of the **Original** signal again.
+{% endhint %}
 
 ### Audio between Equalised and Original
 
@@ -134,6 +142,10 @@ The gains you choose here will be used to generate the random equalisation.
 If you want to train only boosts, unselect all the negative values and if you want to train only cuts, unselect all the positive values.
 
 > **blue** `Low Cut`, `High Cut` and `Band Pass` filters do not have a gain value, so this won't have effect if the random equalisation ends up selecting one of those filters.
+
+{% hint style="info" %}
+**Low Cut**, **High Cut** and **Band Pass** filters do not have a gain value, so this won't have effect if the random equalisation ends up selecting one of those filters.
+{% endhint %}
 
 ### 5. Q factors
 
@@ -188,5 +200,7 @@ Remove this option only when you want to specifically train the Q factors of `Lo
 
 If you check this option, the random equalisation generator can assign "no change" to this band and the original signal won't be affected.
 
-> **blue** If you are training with more than one band, the other bands can still modify the original signal.
+{% hint style="info" %}
+If you are training with more than one band, the other bands can still modify the original signal.
+{% endhint %}
 

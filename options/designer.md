@@ -40,5 +40,7 @@ Click here to reset both quizzes and score to `0` for the selected exercise.
 
 ![](../.gitbook/assets/reset-quizzes-and-score.png)
 
-> **blue** If you want to improve the score of your exercise you can keep doing quizzes, you don't have to reset it if you don't want to. Remember that the score is calculated with the last `X` quizzes. `X` is selected on [General Options](general.md).
+{% hint style="info" %}
+If you want to improve the score of your exercise you can keep doing quizzes, you don't have to reset it if you don't want to. Remember that the score is calculated with the last X quizzes. X is selected on [General Options](general.md).
+{% endhint %}
 
