@@ -84,15 +84,7 @@ Changes will affect only after a restart of TrainYourEars.
 
 ## VST/AU Plugins
 
-You can use up to 3 monitoring plugins inside TrainYourEars, like for example [_Sonarworks Reference 3_](http://bit.ly/2wlCnd6) or [_Waves NX_](http://www.waves.com/plugins/nx).
-
-{% hint style="success" %}
-**SAVE 10%** on Sonarworks' [**studio headphones** and **speaker calibration**](http://bit.ly/2wlCnd6) products.
-
-To enjoy this exclusive discount simply enter the coupon code **TYE10-X2C** at checkout.
-
-**→ Check out** [**Sonarworks' Products**](http://bit.ly/2wlCnd6) **Now!**
-{% endhint %}
+You can use up to 3 monitoring plugins inside TrainYourEars, like for example [_Sonarworks Reference_](http://bit.ly/2wlCnd6) or [_Waves NX_](http://www.waves.com/plugins/nx).
 
 ![](../.gitbook/assets/tye-sonarworks-waves.png)
 
