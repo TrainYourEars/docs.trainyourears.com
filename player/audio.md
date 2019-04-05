@@ -4,6 +4,10 @@ In the Audio Player you can load and play audio files.
 
 The type of files supported by TrainYourEars are `wav`, `aif`, `mp3`, `ogg` and `m4a`.
 
+{% hint style="warning" %}
+The m4a format is only available on Mac and Win 10.
+{% endhint %}
+
 If you haven't added any files yet, you will see this screen:
 
 ![](../.gitbook/assets/drag-and-drop.png)
