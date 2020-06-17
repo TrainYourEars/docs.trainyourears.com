@@ -145,6 +145,10 @@ If you want to train only boosts, unselect all the negative values and if you wa
 `Low Cut`, `High Cut` and `Band Pass` filters do not have a gain value, so this won't have effect if the random equalisation ends up selecting one of those filters.
 {% endhint %}
 
+{% hint style="info" %}
+In `Correct`mode, gains still modify the signal accordingly but you will have to find the opposite gain in the exercise. That means that when you hear a boost, you should find the opposite cut and when you hear a cut, you should find the opposite boost. 
+{% endhint %}
+
 ### 5. Q factors
 
 The Q factors you choose here will be used to generate the random equalisation.

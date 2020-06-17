@@ -17,29 +17,29 @@ In the Live Player you can route whatever you want, like an external source \(iP
 
 ## Internal Source
 
-In order to route audio from other programs running inside your computer, you need an internal router. We use `SoundFlower` in OSX and `VB-CABLE` in Windows. Both are free and work really well.
+In order to route audio from other programs running inside your computer, you need an internal router. We use `BlackHole` in OSX and `VB-CABLE` in Windows. Both are free and work really well.
 
-### OSX Internal Routing with SoundFlower
+### OSX Internal Routing with BlackHole
 
-First, install Soundflower.
+First, install BlackHole.
 
-1. [Download Soundflower](https://github.com/mattingalls/Soundflower/releases/download/2.0b2/Soundflower-2.0b2.dmg) to your computer.
+1. [Download BlackHole](https://cdn.trainyourears.com/assets/BlackHole.v0.2.6.pkg) to your computer.
 2. Open the `dmg` file.
-3. Launch `Soundflower.pkg` to install it.
+3. Launch `BlackHole.v0.2.6.pkg` to install it.
 4. Agree to the License terms and install it.
 5. Restart your computer.
 
 Now, open **TrainYourEars** and route the signal.
 
-1. Choose `Soundflower (2ch)` as input in **TrainYourEars**.
+1. Choose `BlackHole (16ch)` as input in **TrainYourEars**.
 
-![](../.gitbook/assets/soundcard-input2.png)
+![](../.gitbook/assets/screenshot-2020-06-17-at-08.57.53.png)
 
 1. Alt+click on the volume icon of the menu bar.
 
-![](../.gitbook/assets/output-device-soundflower.png)
+![](../.gitbook/assets/screenshot-2020-06-17-at-08.59.42.png)
 
-1. Choose `Soundflower (2ch)` as output in your system.
+1. Choose `BlackHole (16ch)` as output in your system.
 2. Now any signal played in your computer should be routed to **TrainYourEars**.
 
 Once you have finished your training, remember to select your normal output again.
