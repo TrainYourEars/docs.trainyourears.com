@@ -76,6 +76,10 @@ They have three fields, Filter type, Q factor and Gain.
 
 ![](../.gitbook/assets/gain-solved.png)
 
+{% hint style="info" %}
+If your exercise has only one dB choice above and/or below 0dB, you may just click above or below. If there are more than one positive or negative dB choices,  you’ll need to slide it to select your dB answer.
+{% endhint %}
+
 ### Valid Answers
 
 When you have selected those three fields correctly, the band becomes a `Valid Answer` and a green checkmark appears above it.
