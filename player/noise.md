@@ -1,10 +1,10 @@
 # Noise Player
 
-In the Noise Player you can select `Pink Noise` or `White Noise`.
+In the Noise Player, you can select `Pink Noise` or `White Noise`.
 
 ![](../.gitbook/assets/noise-player.png)
 
-Noise is usually recommend for training, but only in the beginning.
+Noise is usually recommended for training, but only in the beginning.
 
 ## Pink Noise
 
@@ -24,5 +24,5 @@ It is defined by: "Each frequency carries an equal amount of energy."
 
 To the human ear, it appears to have more energy in the high frequencies.
 
-It is less recommended for training but it can be useful when you want to keep training with noise during more time and you have already learn how the `Pink Noise` sounds exactly.
+It is less recommended for training but it can be useful when you want to keep training with noise during more time and you have already learned how the `Pink Noise` sounds exactly.
 

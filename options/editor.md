@@ -1,6 +1,6 @@
 # Exercise Editor
 
-In this screen you can edit the selected exercise and adjust its parameters.
+In this screen, you can edit the selected exercise and adjust its parameters.
 
 ![](../.gitbook/assets/exercise-editor-2.png)
 
@@ -33,7 +33,7 @@ You have to **guess** the parameters used in the random equalisation just by lis
 It has these 4 steps:
 
 1. You hear the original signal.
-2. Your hear it again, but this time with a random equalisation applied.
+2. You hear it again, but this time with a random equalisation applied.
 3. **You guess which parameters were used, and you enter them in the software.**
 4. You finally see if you were right or wrong.
 
@@ -45,16 +45,16 @@ This method has been used for over 40 years by many teachers. In the past, there
 
 This mode is new in TrainYourEars 2.
 
-In this mode you have to find the opposite of the random equalisation to get the sound of the original signal again, but this time you can listen while you guess. The tricky part is that you cannot go back and listen again to the original signal.
+In this mode, you have to find the opposite of the random equalisation to get the sound of the original signal again, but this time you can listen while you guess. The tricky part is that you cannot go back and listen again to the original signal.
 
 It has these 4 steps:
 
 1. You hear the original signal.
-2. You here it again, but this time with a random equalisation.
+2. You hear it again, but this time with a random equalisation.
 3. **You use the EQ to correct the signal and make it sound like the original again.**
 4. You finally see if you were right or wrong.
 
-Making the signal sound like the original again means you have to find the opposite EQ, so the result is flat again.
+Making the signal sounds like the original again means you have to find the opposite EQ, so the result is flat again.
 
 {% hint style="success" %}
 The person who suggested this method to us in the first place was Bob Katz, a renowned mastering guru. We tested it, we loved it, so here it is for all you to enjoy!
@@ -79,7 +79,7 @@ This is the audio you hear between the `Original` and the `Equalised` signal.
 
 ![](../.gitbook/assets/audio-between-original-equalised.png)
 
-When you hear both signals \(`Original` and `Equalised`\) one right after the other it is easier to pinpoint the difference.
+When you hear both signals \(`Original` and `Equalised`\) one right after the other, it is easier to pinpoint the difference.
 
 If you want to make the exercise more challenging, you can use a silence, a distraction voice or a sound between both signals.
 
@@ -170,23 +170,23 @@ There are 6 different filter types:
 
 ![](../.gitbook/assets/band.png)
 
-* **Low Cut**: it doesn't modify the part of the signal with a frequency higher than its _cut frequency_ but it removes the part of the signal with frequency lower than its _cut frequency_. It is used to cut unwanted low-frequency signals and it is also known as _high-pass_ filter.
+* **Low Cut**: it doesn't modify the part of the signal with a frequency higher than its _cut frequency_ but it removes the part of the signal where the frequency is lower than its _cut frequency_. It is used to cut unwanted low-frequency signals and it is also known as a _high-pass_ filter.
 
 ![](../.gitbook/assets/low-cut.png)
 
-* **High Cut**: it doesn't modify the part of the signal with a frequency lower than its _cut frequency_ but it removes the part of the signal with frequency higher than its _cut frequency_. It is used to cut unwanted high-frequency signals and it is also known as _low-pass_ filter.
+* **High Cut**: it doesn't modify the part of the signal with a frequency lower than its _cut frequency_ but it removes the part of the signal where the frequency is higher than its _cut frequency_. It is used to cut unwanted high-frequency signals and it is also known as a _low-pass_ filter.
 
 ![](../.gitbook/assets/high-cut.png)
 
-* **Low Shelf**: it doesn't modify frequencies above its _shelf frequency_ but it increases or reduces frequencies below its _shelf frequency_. It is used to correct low frequency signal unbalances.
+* **Low Shelf**: it doesn't modify frequencies above its _shelf frequency_ but it increases or reduces frequencies below its _shelf frequency_. It is used to correct low-frequency signal unbalances.
 
 ![](../.gitbook/assets/low-shelf.png)
 
-* **High Shelf**: it doesn't modify frequencies below its _shelf frequency_ but it increases or reduces frequencies above its _shelf frequency_. It is used to correct high frequency signal unbalances.
+* **High Shelf**: it doesn't modify frequencies below its _shelf frequency_ but it increases or reduces frequencies above its _shelf frequency_. It is used to correct high-frequency signal unbalances.
 
 ![](../.gitbook/assets/high-shelf.png)
 
-* **Band Pass**: it passes frequencies within a certain range and rejects \(attenuates\) frequencies outside that range. It is not used in audio applications, but can be useful to train.
+* **Band Pass**: it passes frequencies within a certain range and rejects \(attenuates\) frequencies outside that range. It is not used in audio applications but can be useful to train.
 
 ![](../.gitbook/assets/band-pass.png)
 

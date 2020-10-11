@@ -9,7 +9,7 @@ Remember, in `Guess` mode you have to **guess** the parameters used in the rando
 Each quiz has these 4 steps:
 
 1. You hear the original signal.
-2. Your hear it again, but this time with a random equalisation applied.
+2. You hear it again, but this time with a random equalisation applied.
 3. You **guess** which parameters were used, and you enter them in the software.
 4. You finally see if you were right or wrong.
 
@@ -51,7 +51,7 @@ In `Guess` mode you can go back and forth between the `Original` and the `Equali
 If you have selected `Silence`, `Distraction voice` or `Distraction noise` between the **Equalised** and the **Original** signals, you will hear it when you click on **Listen Original** again.
 {% endhint %}
 
-As you can see some `Answer Bands` have appeared in the screen. You will have to used them to select your answers.
+As you can see some `Answer Bands` have appeared on the screen. You will have to use them to select your answers.
 
 ### Answer Bands
 
@@ -150,5 +150,5 @@ This is different from the `Total Score` which appears in the title bar, which m
 
 ![](../.gitbook/assets/total-score-3.png)
 
-Once you are ready to start a new quizz, click on `RESET QUIZ` button.
+Once you are ready to start a new quiz, click on `RESET QUIZ` button.
 

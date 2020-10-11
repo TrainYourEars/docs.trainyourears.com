@@ -1,6 +1,6 @@
 # General Options
 
-In this screen you can configure the general options of TrainYourEars. Keep scrolling for a detailed explanation of each option.
+In this screen, you can configure the general options of TrainYourEars. Keep scrolling for a detailed explanation of each option.
 
 ![](../.gitbook/assets/general-options.png)
 
@@ -76,7 +76,7 @@ You can control the Audio Player play/pause using the spacebar.
 
 You can change the number of quizzes used to calculate the `Total score` value of each exercise. It is useful so you don't have to reset the score and quizzes of your exercises, you can keep doing them and the `Total Score` will reflect your improvements in a more accurate way.
 
-Reduce it if you want to give more importance to your last results. Increase it if you want to know how well you are doing from a longer time.
+Reduce it if you want to give more importance to your last results. Increase it if you want to know how well you are doing for a longer time.
 
 ![](../.gitbook/assets/total-score-calculation.png)
 

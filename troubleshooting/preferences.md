@@ -3,7 +3,7 @@
 Sometimes things can go wrong and you may want to reset the preferences to see if it helps. Or maybe you want to start again from scratch.
 
 {% hint style="info" %}
-Remember to export any exercise you want to preserve before reseting the preferences.
+Remember to export any exercise you want to preserve before resetting the preferences.
 {% endhint %}
 
 ## PC \(Windows\)

@@ -1,6 +1,6 @@
 # Exercise Designer
 
-In this screen you can choose the exercise you want to use and create new ones.
+In this screen, you can choose the exercise you want to use and create new ones.
 
 ![](../.gitbook/assets/exercise-designer-2.png)
 

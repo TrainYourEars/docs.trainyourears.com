@@ -2,20 +2,20 @@
 
 Selecting some audio from the Player section should be your first step each time you want to train.
 
-One of the many advantages of TrainYourEars is that it let's you choose the audio you want to train with. You have three options.
+One of the many advantages of TrainYourEars is that it lets you choose the audio you want to train with. You have three options.
 
 ## Three different options
 
 ![](../.gitbook/assets/player-selector.png)
 
-Each screen let's you select different audio signals.
+Each screen lets you select different audio signals.
 
 ### Audio Player
 
 Play your own files. You can use songs or even tracks. It depends on what you are trying to learn.
 
 {% hint style="info" %}
-For example, if you want to learn how different `Low Cut`filters affect a guitar you've just recorded, just load that track and setup an exercise with different `Low Cuts.`
+For example, if you want to learn how different `Low Cut`filters affect a guitar you've just recorded, just load that track and set up an exercise with different `Low Cuts.`
 {% endhint %}
 
 Check the [Audio Player](audio.md) section for more info.
@@ -40,9 +40,9 @@ You can control the volume of the audio input in any of those screens, using the
 
 ![](../.gitbook/assets/player-controls.png)
 
-There are controls for `Mute` and `Mono` as well, and an output vumeter to evaluate the volume of the incoming signal.
+There are controls for `Mute` and `Mono` as well, and an output VU meter to evaluate the volume of the incoming signal.
 
 {% hint style="info" %}
-You have to be careful when setting up your volume. Remember that TrainYourEars applies a random equalization to the signal. If it applies a boost, it will rise the volume several dBs and it could clip the output.
+You have to be careful when setting up your volume. Remember that TrainYourEars applies a random equalization to the signal. If it applies a boost, it will raise the volume several dBs and it could clip the output.
 {% endhint %}
 

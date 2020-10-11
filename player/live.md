@@ -1,6 +1,6 @@
 # Live Player
 
-In the Live Player you can route whatever you want, like an external source \(iPod, radio, instrument, other computer\) or an internal source \(iTunes, Spotify, SoundCloud\).
+In the Live Player, you can route whatever you want, like an external source \(iPod, radio, instrument, another computer\) or an internal source \(iTunes, Spotify, SoundCloud\).
 
 ![](../.gitbook/assets/live-player.png)
 
@@ -45,7 +45,7 @@ Now, open **TrainYourEars** and route the signal.
 Once you have finished your training, remember to select your normal output again.
 
 {% hint style="info" %}
-If you hear noises try switching to `ad_portaudio Core Audio` driver instead. In certain computers it works better than `Core Audio`.
+If you hear noises try switching to `ad_portaudio Core Audio` driver instead. In certain computers, it works better than `Core Audio`.
 {% endhint %}
 
 ### Windows Internal Routing with VB CABLE
@@ -57,7 +57,7 @@ First, install VB-CABLE.
 ![](../.gitbook/assets/vb-cable.png)
 
 1. Unzip the `zip` file.
-2. Right click on `VBCABLE_Setup_x64.exe` and choose `Run as Administrator`.
+2. Right-click on `VBCABLE_Setup_x64.exe` and choose `Run as Administrator`.
 
 ![](../.gitbook/assets/vbcable-administrator.png)
 
@@ -74,7 +74,7 @@ Now, open **TrainYourEars** and route the signal.
 
 ![](../.gitbook/assets/soundcard-input3.png)
 
-1. Right click on the volume icon and choose `Playback Devices`
+1. Right-click on the volume icon and choose `Playback Devices`
 
 ![](../.gitbook/assets/volume-icon.png)
 

@@ -4,7 +4,7 @@ This document will show you how to get up and running with [TrainYourEars](https
 
 ## Mac \(OSX\)
 
-To install **TrainYourEars EQ Edition**  on a Mac, follow this steps:
+To install **TrainYourEars EQ Edition**  on a Mac, follow these steps:
 
 1. Once you have downloaded the `.dmg` file from your email double click on it.
 2. Accept the terms and conditions.
@@ -18,18 +18,18 @@ To install **TrainYourEars EQ Edition**  on a Mac, follow this steps:
 ![](../.gitbook/assets/dmg.png)
 
 1. Now just drag **TrainYourEars** and drop it on the _Applications_ folder you see.
-2. That will copy the `TrainYourEars EQ Edition 2.app` in your _Applications_ folder so you can find it  afterwards.
-3. If you have already installed a previous version of _TrainYourEars_ it will ask for replacement. Click on `Replace`.
+2. That will copy the `TrainYourEars EQ Edition 2.app` in your _Applications_ folder so you can find it afterwards.
+3. If you have already installed a previous version of _TrainYourEars_ it will ask for a replacement. Click on `Replace`.
 
 ![](../.gitbook/assets/replace.png)
 
 ## PC \(Windows\)
 
-To install **TrainYourEars EQ Edition**  on a PC, follow this steps:
+To install **TrainYourEars EQ Edition**  on a PC, follow these steps:
 
 1. Once you have downloaded the `.zip` file from your email double click on it and extract its contents.
 2. Then, double click on the `.exe` file.
-3. If Windows ask you for admin permissions, click on `Yes`.
+3. If Windows asks you for admin permissions, click on `Yes`.
 
 ![](../.gitbook/assets/permissions.png)
 

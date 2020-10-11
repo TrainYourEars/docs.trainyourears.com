@@ -2,12 +2,12 @@
 
 TrainYourEars has a new training method called `Correct`.
 
-In `Correct` mode you have to find the exact opposite EQ of the random equalisation so they cancel each other out. This time, you can listen what you are doing, so it's not a blind test like the `Guess` mode. The trick here is that you can't go back to hear the original signal once the quiz has started.
+In `Correct` mode you have to find the exact opposite EQ of the random equalisation so they cancel each other out. This time, you can listen to what you are doing, so it's not a blind test like the `Guess` mode. The trick here is that you can't go back to hear the original signal once the quiz has started.
 
 Each quiz has these 4 steps:
 
 1. You hear the original signal.
-2. Your hear it again, but this time with a random equalisation applied.
+2. You hear it again, but this time with a random equalisation applied.
 3. You use the EQ to **correct** the signal and make it sound like the original again.
 4. You finally see if you were right or wrong.
 
@@ -43,9 +43,9 @@ For example, if you selected two gains, `+12dB` and `-12dB` there is a 50% of ch
 
 ## 3. Make it sound like the original again
 
-As you can see some `Answer Bands` have appeared in the screen. You will have to use them to select your answer.
+As you can see some `Answer Bands` have appeared on the screen. You will have to use them to select your answer.
 
-In `Correct` mode you have to use those `Answer Bands` to modify the signal and make it sound like the original again. That means you will hear the changes and can keep modifing the signal until you are confident you are hearing a flat \(no equalised\) signal.
+In `Correct` mode you have to use those `Answer Bands` to modify the signal and make it sound like the original again. That means you will hear the changes and can keep modifying the signal until you are confident you are hearing a flat \(no equalised\) signal.
 
 Unlike the `Guess` mode, you can't go back to hear the `Orginial` signal. You have to remember how it sounds and try to match that sound. This is the mental effort of this method.
 
@@ -72,9 +72,13 @@ They have three fields, Filter type, Q factor and Gain.
 
 ![](../.gitbook/assets/gain-solved%20%281%29.png)
 
+{% hint style="info" %}
+If your exercise has only one dB choice above and/or below 0dB, you may just click above or below. If there are more than one positive or negative dB choices,  you’ll need to slide it to select your dB answer.
+{% endhint %}
+
 ### Valid Answers
 
-When you have selected those three fields correctly, the band becomes a `Valid Answer` and a green checkmark appears above it. In that moment, you will hear its effect in the signal.
+When you have selected those three fields correctly, the band becomes a `Valid Answer` and a green checkmark appears above it. At that moment, you will hear its effect on the signal.
 
 It looks like this:
 
@@ -170,5 +174,5 @@ This is different from the `Total Score` which appears in the title bar, which m
 
 ![](../.gitbook/assets/total-score-correct-2.png)
 
-Once you are ready to start a new quizz, click on `RESET QUIZ` button.
+Once you are ready to start a new quiz, click on `RESET QUIZ` button.
 

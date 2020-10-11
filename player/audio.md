@@ -1,6 +1,6 @@
 # Audio Player
 
-In the Audio Player you can load and play audio files.
+In the Audio Player, you can load and play audio files.
 
 The type of files supported by TrainYourEars are `wav`, `aif`, `mp3`, `ogg` and `m4a`.
 
@@ -80,7 +80,7 @@ You can also control Play/Pause using the spacebar.
 
 ### Audio Loop
 
-If you click and drag on the waveform you will create a loop, marked in red \(as seen in the waveform image\). If you select the button labeled as `Loop`, the audio will be looped over that section.
+If you click and drag on the waveform you will create a loop, marked in red \(as seen in the waveform image\). If you select the button labelled as `Loop`, the audio will be looped over that section.
 
 {% hint style="info" %}
 If you have activated the Random Player option, the loop will be lost once you start a new quiz and TrainYourEars jumps to another song and time.
@@ -88,11 +88,11 @@ If you have activated the Random Player option, the loop will be lost once you s
 
 ### Song Loop
 
-If you click on the button labeled as `Song` the whole song will be played again once it has finished.
+If you click on the button labelled as `Song` the whole song will be played again once it has finished.
 
 ## Note: Audio may be muted
 
-Sometimes you can see an advice like this:
+Sometimes you can see a piece of advice like this:
 
 ![](../.gitbook/assets/audio-muted.png)
 
