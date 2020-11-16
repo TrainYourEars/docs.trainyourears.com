@@ -4,7 +4,7 @@ This package has been created by the **mastering engineer** Andrea Zanini, found
 
 ## Download the package
 
-[**Click here to download the Beginners package.**](http://cdn.trainyourears.com/exercises/zanini/Beginners%20package%20by%20Andrea%20Zanini.zip)
+[**Click here to download the Beginners package.**](https://cdn.trainyourears.com/exercises/zanini/Beginners%20package%20by%20Andrea%20Zanini.zip)
 
 Then unzip it and use the [import](../options/designer.md#import) button to load the exercises in TrainYourEars.
 
