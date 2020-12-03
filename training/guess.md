@@ -55,7 +55,7 @@ As you can see some `Answer Bands` have appeared on the screen. You will have to
 
 ### Answer Bands
 
-![](../.gitbook/assets/answer-bands%20%281%29.png)
+![](../.gitbook/assets/answer-bands%20%281%29%20%281%29.png)
 
 They have three fields, Filter type, Q factor and Gain.
 
@@ -69,12 +69,12 @@ They have three fields, Filter type, Q factor and Gain.
    * If you have selected more than one `Q factor` or your exercise has more than one band with different `Q factors`, you can select here the type of Q factor you think the answer is.
    * If there is only one `Q factor` available, it will just appear in green.
 
-![](../.gitbook/assets/q-factor-solved.png)
+![](../.gitbook/assets/q-factor-solved%20%281%29.png)
 
 1. **Gain**:
    * Select the gain you think the answer is.
 
-![](../.gitbook/assets/gain-solved.png)
+![](../.gitbook/assets/gain-solved%20%281%29.png)
 
 {% hint style="info" %}
 If your exercise has only one dB choice above and/or below 0dB, you may just click above or below. If there are more than one positive or negative dB choices,  you’ll need to slide it to select your dB answer.
@@ -86,7 +86,7 @@ When you have selected those three fields correctly, the band becomes a `Valid A
 
 It looks like this:
 
-![](../.gitbook/assets/valid-answer.png)
+![](../.gitbook/assets/valid-answer%20%281%29.png)
 
 **Be aware: A 'Valid Answer' doesn't mean you are right, it only means TrainYourEars will validate it once you click on the 'SHOW SOLUTION' button.**
 
@@ -110,11 +110,11 @@ A cable connects each `Solution` with the closest `Answer` and above the answer 
 
 If the random equalisation selected was `No-Change` you will see this symbol in the Solutions section:
 
-![](../.gitbook/assets/no-change.png)
+![](../.gitbook/assets/no-change%20%281%29.png)
 
 Or in red if you didn't answer correctly:
 
-![](../.gitbook/assets/no-change-red-3.png)
+![](../.gitbook/assets/no-change-red-3%20%281%29.png)
 
 ### Equaliser Section
 
