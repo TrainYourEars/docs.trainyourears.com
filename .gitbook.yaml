@@ -6,5 +6,5 @@ structure:
 redirects:
   /en/latest: ./README.md
   /en/latest/: ./README.md
-  /en/latest/live-player: https://docs.trainyourears.com/player/live.md
-  /en/latest/live-player/: https://docs.trainyourears.com/player/live.md
+  /en/latest/live-player: ./player/live.md
+  /en/latest/live-player/: ./player/live.md
