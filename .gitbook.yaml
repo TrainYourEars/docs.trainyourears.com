@@ -1,4 +1,10 @@
+root: ./
+
+structure:
+  summary: SUMMARY.md
+
 redirects:
-  /en/latest: ./
-  /en/latest/: ./
-  /en/latest/live-player.html: https://docs.trainyourears.com/player/live
+  /en/latest: ./README.md
+  /en/latest/: ./README.md
+  /en/latest/live-player: https://docs.trainyourears.com/player/live.md
+  /en/latest/live-player/: https://docs.trainyourears.com/player/live.md
