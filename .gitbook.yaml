@@ -1,0 +1,4 @@
+redirects:
+  /en/latest: ./
+  /en/latest/: ./
+  /en/latest/live-player.html: https://docs.trainyourears.com/player/live
