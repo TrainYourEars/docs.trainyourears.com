@@ -1,12 +1,12 @@
 # Minimum Requirements
 
-TrainYourEars works both in PC \(Windows\) and Mac \(OSX\).
+TrainYourEars works both in PC \(Windows\) and Mac \(macOS\).
 
-## Mac \(OSX\)
+## Mac \(macOS\)
 
-* Mac Intel machine running OS X 10.6 or later
-* 1Gb of RAM
-* 800×600 display resolution
+* Mac Intel or M1 machine running macOS 10.6 or later.
+* ..aa,...
+* 800×600 display resolution.
 
 ## PC \(Windows\)
 
