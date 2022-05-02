@@ -17,5 +17,3 @@ TrainYourEars works both in PC (Windows) and Mac (macOS).
 * 800×600 display resolution.
 * An ASIO-compatible sound card is recommended for optimum audio performance and low latency.
 * An Internet connection.
-
-_Please note: These are the minimum requirements but a multicore processor and 2Gb of RAM are highly recommended._
